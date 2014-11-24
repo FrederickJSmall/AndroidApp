@@ -15,8 +15,8 @@ import android.support.v7.app.ActionBarActivity;
 import android.content.Intent;
 import android.widget.TextView;
 
-public class DisplayMessageActivity extends ActionBarActivity  {
-
+//public class DisplayMessageActivity extends ActionBarActivity  {
+public class DisplayMessageActivity extends Activity  {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
